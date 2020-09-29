@@ -1,0 +1,34 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test-Suite">
+
+    <test name="SocialNetwork">
+        <classes>
+            <class name="tests.TestSocialNetwork"/>
+        </classes>
+    </test>
+
+    <test name="SummerDresses">
+        <classes>
+            <class name="tests.TestSummerDresses"/>
+        </classes>
+    </test>
+
+    <test name="Cart">
+        <classes>
+            <class name="tests.TestCart"/>
+        </classes>
+    </test>
+
+    <test name="SearchBar">
+        <classes>
+            <class name="tests.TestSearchBar"/>
+        </classes>
+    </test>
+
+    <test name="ContactUsLinks">
+        <classes>
+            <class name="tests.TestContactUs"/>
+        </classes>
+    </test>
+
+</suite>
