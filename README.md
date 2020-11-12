@@ -5,10 +5,8 @@
 <h5>The site <a href="http://automationpractice.com/index.php">MyStore</a>  is being tested.
 Use Selenium to work with the elements on the website, and TestNG to write tests. Apply Page Object Model.</h5>
 <ul>
-<li>Test when you are on the home page of the site if you stop mouse on the WOMEN button and then from there select Summer Dresses,
- did you goes to the correct page. </li>
- <li>Test when you are on the home page of the site if you stop mouse on the DRESSES button and then from there select Summer Dresses,
-did you goes to the correct page</li>
+<li>Test when you are on the home page of the site if you stop mouse on the WOMEN button and then from there select Summer Dresses, it goes to the correct page. </li>
+ <li>Test when you are on the home page of the site if you stop mouse on the DRESSES button and then from there select Summer Dresses, it goes to the correct page</li>
 <li>Make sure the previous two points send user to the same page.</li>
 <li>Choose second dress from the Summer Dresses offer. Put in the cart two such dresses, M size in white color.</li>
 <li>Check if the cart really contains two dresses with the appropriate name, in white, M size.</li>
